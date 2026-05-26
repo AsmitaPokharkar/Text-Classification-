@@ -1,6 +1,5 @@
 # Text-Classification with Tensorflow
 
-```markdown
 IMDB Sentiment Analysis
 A simple yet effective deep learning model for binary sentiment classification (positive/negative) of movie reviews using the IMDB dataset. The notebook demonstrates two approaches:
 1. **Custom Embedding + Dense Network** – Trains a word embedding from scratch.
