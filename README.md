@@ -8,7 +8,7 @@ A simple yet effective deep learning model for binary sentiment classification (
 The final model achieves **≈85% validation accuracy** after only 5 epochs.
 ---
 
-## 📌 Overview :
+##  Overview :
 The IMDB dataset contains 25,000 highly polarised movie reviews for training and 25,000 for testing. Each review is a sequence of word indices (integers). The notebook:
 1. Loads the IMDB dataset (top 20,000 words, max length 200).
 2. Converts integer sequences to fixed‑length vectors using **padding**.
@@ -62,5 +62,3 @@ The notebook will automatically download the IMDB dataset via `tensorflow.keras.
 ├── Text Classification.ipynb   # Main notebook
 └── README.md                   # This file
 ```
-
----
