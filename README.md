@@ -58,7 +58,6 @@ The notebook will automatically download the IMDB dataset via `tensorflow.keras.
 ##  Repository Structure :
 
 ```
-.
 ├── Text Classification.ipynb   # Main notebook
 └── README.md                   # This file
 ```
